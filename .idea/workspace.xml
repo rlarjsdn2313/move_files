@@ -20,12 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b93005b4-48a1-4121-aa6b-1e858dc08d54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drive/gunwoo/f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drive/gunwoo/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drive/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/drive.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/main.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,7 +52,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="noder app.js" />
+      <command value="nodemon app.js" />
+      <command value="node app.js" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -49,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603587136632</updated>
-      <workItem from="1603587137698" duration="150000" />
+      <workItem from="1603587137698" duration="2394000" />
     </task>
     <servers />
   </component>
@@ -66,5 +97,31 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603588852755">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="416" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1603588852755" />
+    <state width="1256" height="279" key="GridCell.Tab.0.bottom" timestamp="1603588252271">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1256" height="279" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1603588252271" />
+    <state width="1256" height="279" key="GridCell.Tab.0.center" timestamp="1603588252270">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1256" height="279" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1603588252270" />
+    <state width="1256" height="279" key="GridCell.Tab.0.left" timestamp="1603588252270">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1256" height="279" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1603588252270" />
+    <state width="1256" height="279" key="GridCell.Tab.0.right" timestamp="1603588252271">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1256" height="279" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1603588252271" />
+    <state x="303" y="242" width="672" height="677" key="run.anything.popup" timestamp="1603588226967">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="303" y="242" width="672" height="677" key="run.anything.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1603588226967" />
   </component>
 </project>
