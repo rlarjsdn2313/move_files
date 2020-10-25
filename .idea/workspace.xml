@@ -20,13 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b93005b4-48a1-4121-aa6b-1e858dc08d54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drive/gunwoo/f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drive/gunwoo/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drive/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/drive.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/main.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drive/gunwoo/20200929_10703김건우_진로의 날 맞이 온라인 수업(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drive/gunwoo/d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +49,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drive/gunwoo" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\coding\web\빠른 파일 공유\move_files\drive\gunwoo" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -80,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603587136632</updated>
-      <workItem from="1603587137698" duration="2394000" />
+      <workItem from="1603587137698" duration="5769000" />
     </task>
     <servers />
   </component>
@@ -99,10 +102,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="416" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603588852755">
+    <state x="416" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603590184147">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="416" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1603588852755" />
+    <state x="416" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1603590184147" />
     <state width="1256" height="279" key="GridCell.Tab.0.bottom" timestamp="1603588252271">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
